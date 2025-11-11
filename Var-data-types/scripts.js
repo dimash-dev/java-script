@@ -86,6 +86,5 @@ console.log(namePrmpt);
 let agePrmpt = prompt('Введите возраст: ')
 console.log(agePrmpt);
 
-// Все введённые значения в prompt изначально строки.
 
 
