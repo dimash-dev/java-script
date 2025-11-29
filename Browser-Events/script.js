@@ -41,7 +41,7 @@ list.addEventListener('click', (event) => {
   console.log(event.target.textContent);
 })
 
-// Задание 7
+// Задание 7)
 const keybInput = document.getElementById('keyboardInput');
 
 keybInput.addEventListener('keydown', (event) => {
