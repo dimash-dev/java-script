@@ -45,5 +45,5 @@ list.addEventListener('click', (event) => {
 const keybInput = document.getElementById('keyboardInput');
 
 keybInput.addEventListener('keydown', (event) => {
-  console.log('Нажаита клавиша', event.key);
+  console.log('Нажаита клавиша', event.code);
 })
